@@ -7,4 +7,4 @@ You can choose among 4 available summarization libraries namely: SpaCy, Sumy, Nl
 
 You can find the app on: https://horizon-by-pr.herokuapp.com/
 
-P.S. :I havent added the **static** files.
+P.S. : I havent added the **static** files.
