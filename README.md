@@ -6,3 +6,5 @@ Flask and Python is used as the backend with an NLTk model and SpaCy model as it
 You can choose among 4 available summarization libraries namely: SpaCy, Sumy, Nltk ad gensim. More about these libraries are in the About section of the web-app. 
 
 You can find the app on: https://horizon-by-pr.herokuapp.com/
+
+P.S. :I havent added the **static** files.
