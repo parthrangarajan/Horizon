@@ -1,0 +1,6 @@
+horizon
+*.pyc
+.idea
+nltk_summarization.pyc
+spacy_summarization.pyc
+spacy_summarizer.py
